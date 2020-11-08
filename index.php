@@ -14,7 +14,7 @@
 			$code = $_POST['code'];
 
 		//Final validation
-			if ($code == "deletedforever"){
+			if ($code == "[REDACTED]"){
 				//Display Flag . . . 
 				echo '<div class="w3-panel w3-pale-green w3-border" style="background-color:#000000 !important; color: #00ec28 !important;"><h3>Flag</h3><p>[REDACTED]</p></div>';
 			}else
